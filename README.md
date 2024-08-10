@@ -1,6 +1,6 @@
 # Music Genre Classification Project
 
-This project focuses on classifying music tracks into genres using machine learning techniques. With the rise of streaming services, accurate music categorization has become essential for providing personalized recommendations. Below is a brief overview of the process used in this project.
+This project focuses on classifying music tracks into genres using machine learning techniques.
 
 ### 1. Dataset Preparation
 We begin by loading the metadata and track metrics provided by The Echo Nest. This data forms the foundation for our analysis and model training.
